@@ -1,37 +1,22 @@
-# Nombre de la GitHub Action
 name: Generate snake animation
 
-# Configura cuándo se ejecuta
 on:
-  # 1. Se ejecuta automáticamente cada 6 horas
   schedule:
     - cron: "0 */6 * * *"
-    
-  # 2. Te permite ejecutarlo manualmente desde la pestaña "Actions"
   workflow_dispatch:
 
-# Los trabajos que va a realizar
 jobs:
   generate:
-    runs-on: ubuntu-latest # Se ejecuta en un servidor virtual Linux
-
+    runs-on: ubuntu-latest
     steps:
-      # Paso 1: "Saca" una copia de tu repositorio al servidor virtual
       - uses: actions/checkout@v3
-
-      # Paso 2: Ejecuta la acción "snk" de Platane
       - uses: Platane/snk@v3
         with:
-          # Usa tu nombre de usuario de GitHub automáticamente
           github_user_name: ${{ github.repository_owner }}
-          
-          # Define los archivos de salida
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
             dist/ocean.svg?palette=ocean
-
-      # Paso 3: Sube los archivos generados a la rama "output"
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
