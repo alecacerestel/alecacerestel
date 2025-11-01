@@ -2,13 +2,13 @@
 
 <img align="right" alt="Developer GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm a Dual-Degree Engineering Student specializing in Data & DevOps
+## I'm a MSC Engineering Student specializing in Data & DevOps
 
 > Creative and passionate about technology, I am dedicated to building solutions that simplify data access. My international background has taught me to listen and collaborate with culturally diverse teams to transform their challenges into reliable and automated data systems, allowing them to focus on what's essential.
 
 - 👨‍💻 I'm a Master's student at **IMT Atlantique** in Digital Platforms and Data Science.
 - 📚 My core interests are Data Engineering, MLOps, and Process Automation.
-- 🌍 Based in Brest, France.
+- 🌍 Based in France.
 
 <br/>
 
