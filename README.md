@@ -82,7 +82,3 @@
 </p>
 
 ---
-
-<p align="center"> 
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=alecacerestel&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
