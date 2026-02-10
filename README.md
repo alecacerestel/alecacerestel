@@ -73,11 +73,9 @@
 ---
 
 ### 🐍 My Contribution Snake
-
-<div align="center">
-  <img alt="snake animation" src="https://github.com/alecacerestel/alecacerestel/blob/output/snake.svg" />
-</div>
-
+<p align="center">
+  <img src="assets/space-shooter.gif">
+</p>
 ---
 
 ### 📊 My GitHub Stats
