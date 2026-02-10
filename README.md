@@ -83,13 +83,13 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alecacerestel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecacerestel&layout=compact&langs_count=7&theme=tokyonight"/>
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alecacerestel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alecacerestel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <br/>
+  
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=blue-green&fontFamily=&preferLogin=false">
+    <img alt="alecacerestel's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/alecacerestel?cardType=github&theme=blue-green&fontFamily=&preferLogin=false" />
+  </a>
 </p>
 
 ---
