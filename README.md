@@ -70,17 +70,13 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
----
-
-### 🐍 My Contribution Snake
-<p align="center">
-  <img src="assets/space-shooter.gif">
-</p>
----
-
 ### 📊 My GitHub Stats
 
 <p align="center">
+  <img src="game.gif" alt="My GitHub Space Shooter" width="100%" />
+  
+  <br/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alecacerestel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
   <br/>
@@ -90,4 +86,3 @@
   </a>
 </p>
 
----
